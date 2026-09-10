@@ -1,4 +1,4 @@
-public class mainlivro {
+public class mainmanhwa {
 
     public static void main (String [] args){
         //criei 4 objetos da classe denominada manhwa
